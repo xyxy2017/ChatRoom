@@ -1,5 +1,5 @@
 # ChatRoom 
-利用socket技术和tcp实现的聊天室。  
+利用socket技术和select实现的聊天室。  
 ## 编译
 ./make 即可编译出chatroom\_client和chatroom\_server  
 ## 启动
